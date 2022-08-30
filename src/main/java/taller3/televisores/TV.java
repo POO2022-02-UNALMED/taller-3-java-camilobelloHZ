@@ -53,7 +53,6 @@ public class TV {
 		}
 		
 	}
-	
 	public int getCanal() {
 		return canal;
 	}
